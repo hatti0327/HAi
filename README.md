@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <body>
     <h1>Webサイトのプログラムが組みたい</h1>
@@ -11,4 +10,3 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width">
-</head>
