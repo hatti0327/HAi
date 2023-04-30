@@ -11,5 +11,4 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width">
-    <title>練習</title>
 </head>
